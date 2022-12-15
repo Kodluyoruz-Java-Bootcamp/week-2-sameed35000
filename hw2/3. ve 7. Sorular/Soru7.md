@@ -1,11 +1,14 @@
 ##### emlakcepte uygulamasına aşağıdaki yeni özellikleri ekleyin. 
 - Şehir ve ilçe bazlı ilan arama.
+
 ![7a](7a.png)
 
 - Kullanıcı yaptığı aramaları kaydedebilmeli, listeleyebilmeli.
+
 ![7b](7b.png)
 
 - Bireysel kullanıcılar sadece Konut tipinde ve en fazla 3 ilan yayınlayabilirler.
+
 ![7c](7c.png)
 
 - Şehir vitrini 10 ilandan oluşur. Şehir bazlı vitrinler oluşturun.
